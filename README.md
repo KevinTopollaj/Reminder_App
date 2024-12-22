@@ -94,4 +94,5 @@ The application views are all written in code.
 
  
 ## Contact
-Kevin Topollaj, email: kevintopollaj@gmail.com - feel free to contact me!
+
+Kevin Topollaj, email: kevintopollaj@gmail.com - feel free to contact me for any questions or suggestions!
